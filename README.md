@@ -1,7 +1,6 @@
 ## Hello World! Eu sou o Rodrigo Aquino 👋
 
 - 📱 Desenvolvedor Mobile
-- 🖼️ Desenvolvedor front-end
 - 📫 Contate-me no email: rodrigovrvr@gmail.com
 
 <div align="center">
@@ -12,21 +11,21 @@
   
   
   <div style="display: inline_block"><br>
-  Habilidades Técnicas Mobile ➡️
+  Linguagens e Frameworks ➡️
   <img align="center" alt="Rodri-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Rodri-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Rodri-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   </div>
   
   <div style="display: inline_block"><br>
-  Habilidades Técnicas Front-End ➡️
-  <img align="center" alt="Rodri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rodri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rodri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rodri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rodri-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Rodri-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  Controle de versão ➡️
+  <img align="center" alt="Rodri-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
+  
+  <div style="display: inline_block"><br>
+  Banco de dados ➡️
+  <img align="center" alt="Rodri-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  </div>
+  
   
    ##
  
