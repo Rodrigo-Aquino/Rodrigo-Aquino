@@ -1,7 +1,7 @@
- # Hello World! Eu sou o Rodrigo Aquino 👋
+ # Hello World! I'm Rodrigo Aquino 👋
 
-- 📱 Desenvolvedor Front end
-- 📫 Contate-me no email: rodrigovrvr@gmail.com
+- :wrench:|:iphone:|:computer: Software Engineer
+- 📫 email contact: rodrigovrvr@gmail.com
 
 <div align="center">
   <a href="https://github.com/Rodrigo-Aquino">
