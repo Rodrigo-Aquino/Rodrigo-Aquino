@@ -1,6 +1,6 @@
  # Hello World! I'm Rodrigo Aquino 👋
 
-- :wrench:|:iphone:|:computer: Software Engineer
+- :wrench:|:iphone:|:computer: Data Engineer
 - 📫 email contact: rodrigovrvr@gmail.com
 
 <div align="center">
