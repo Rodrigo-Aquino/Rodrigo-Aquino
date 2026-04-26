@@ -12,7 +12,7 @@ Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmen
     align="left" 
     alt="Python"
     title="Python" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 />
@@ -20,7 +20,7 @@ Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmen
     align="left" 
     alt="Spark" 
     title="Spark"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
 />
@@ -28,7 +28,7 @@ Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmen
     align="left" 
     alt="Redis" 
     title="Redis"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg"
 />
@@ -36,7 +36,7 @@ Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmen
     align="left" 
     alt="Hadoop"
     title="Hadoop" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg"
 />
@@ -46,7 +46,7 @@ Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmen
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
 />
@@ -55,7 +55,7 @@ Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmen
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -64,7 +64,7 @@ Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmen
     align="left" 
     alt="MongoDB" 
     title="MongoDB"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
