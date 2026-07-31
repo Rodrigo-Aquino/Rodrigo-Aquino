@@ -1,6 +1,6 @@
 # 🧑‍💻 Rodrigo Aquino
 
-**`Engenheiro e Analista de Dados`**
+**`Engenheiro de Dados | Engenheiro de Software | Desenvolvedor Back-End`**
 
 Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IBMEC RIO. Sou apaixonado por tecnologia, inovação e DADOS.
 
@@ -16,6 +16,15 @@ Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 />
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
 <img 
     align="left" 
     alt="Spark" 
