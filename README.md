@@ -2,7 +2,7 @@
 
 **`Engenheiro de Dados | Engenheiro de Software | Desenvolvedor Back-End`**
 
-Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IBMEC RIO. Sou apaixonado por tecnologia, inovação e DADOS.
+Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Bacharelado em Ciencia de Dados e Inteligencia Artificial no IBMEC RIO. Sou apaixonado por tecnologia, inovação e DADOS.
 
 ---
 
