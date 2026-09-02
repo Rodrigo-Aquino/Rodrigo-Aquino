@@ -2,7 +2,7 @@
 
 **`Cientista de Dados | Engenheiro de Dados | Analista de Dados`**
 
-Me chamo Rodrigo Aquino, tenho 29 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Bacharelado em Ciencia de Dados e Inteligencia Artificial no IBMEC RIO. Sou apaixonado por tecnologia, inovação e DADOS.
+Me chamo Rodrigo Aquino, sou natural do Rio de Janeiro. Atualmente, estou cursando Bacharelado em Ciencia de Dados e Inteligencia Artificial no IBMEC RIO. Sou apaixonado por tecnologia, inovação e DADOS.
 
 ---
 
